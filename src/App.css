@@ -1,0 +1,131 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+.navbar{
+  height: 60px;
+  display: flex;
+  align-items: center;
+
+.logo{
+  margin-left: 100px;
+}
+
+
+ul{
+  color: rgba(0, 0, 0, 0.725);
+  margin-left: 950px;
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  font-family: sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+
+}
+
+
+.contact{
+  font-family: sans-serif;
+  margin-top: 70px;  
+  margin-left: 200px;
+  font-size: 25px;
+
+h1{
+  font-weight: 700;
+}
+
+
+h6{
+  margin-top: 10px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.742);
+}
+
+}
+
+
+.mid{
+  margin-top: 49px;
+   height: 430px;
+  display: flex;
+
+}
+
+
+.left{
+  width: 50%;
+
+.but{
+  margin-left: 170px;
+
+  .support{
+    background-color: #000000;
+    color: white;
+    height: 32px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 150px;
+    margin-left: 30px;
+  }
+
+}
+
+
+.mail{
+  margin-left: 200px;
+  height: 32px;
+  border-radius: 5px;
+  width: 330px;
+  font-weight: 600;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+
+.name{
+  margin-top: 25px;
+  margin-left: 215px;
+  width: 300px;
+  height: 30px;
+}
+
+.text{
+  margin-top: 25px;
+  margin-left: 215px;
+  width: 300px;
+  height: 70px;
+
+}
+
+.submit{
+  margin-left: 400px;
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+}
+
+
+.right{
+  width: 50%;
+
+
+  img{
+    height: 100%;
+ 
+  }
+
+
+}
